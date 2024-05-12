@@ -20,8 +20,8 @@ Sum the number of words in each line.
 Display the total words in the file.
 ## PROGRAM:
 ```
-Developed by: STEPHEN RAJ.Y
-Register no: 212223230217
+Developed by: MAHASRI P
+Register no: 212223100029
 import sys
 fp=open(sys.argv[1])
 wordcount=0
